@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestActivity</string>
+    <string name="activity_1_text">1</string>
+    <string name="activity_1_holder">Type your text here</string>
+    <string name="activity_2_text">2</string>
+    <string name="activity_3_text">3</string>
+    <string name="activity_4_text">4</string>
+    <string name="activity_5_text">5</string>
+
+    <string name="go_to_next_activity">Go to next Activity</string>
+</resources>
